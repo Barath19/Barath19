@@ -29,6 +29,9 @@ I'm Bharath Kumar a master's student in Autonomous systems at Hochschule Bonn-Rh
 #### Contact
 - bharath.adinarayan@smail.inf.h-brs.de
 
+#### Github Stats
+
+[![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barath19&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Profile Visits 
 
@@ -43,6 +46,3 @@ I'm Bharath Kumar a master's student in Autonomous systems at Hochschule Bonn-Rh
 
 I love working on robotics projects mainly working on reinforcement learning and imitation learning and I am also interested in learning reward functions from policy🙃 !
 
-#### Github Stats
-
-[![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barath19&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
