@@ -33,9 +33,8 @@ I'm Bharath Kumar a master's student in Autonomous systems at Hochschule Bonn-Rh
 
 [![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barath19&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Profile Visits 
+#### [Link to CV](https://barath19.github.io/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Barath19.Barath19)
 
 <details>
 <summary>
