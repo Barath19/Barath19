@@ -4,7 +4,7 @@ I'm Bharath Kumar a master's student in Autonomous systems at Hochschule Bonn-Rh
 
 📫  Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-bharathkumar96-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar96/) [![Mail Badge](https://img.shields.io/badge/-BharathKumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharath.adianarayan@smail.inf.h-brs.de)
+[![Linkedin Badge](https://img.shields.io/badge/-bharathkumar96-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar96/) [![Mail Badge](https://img.shields.io/badge/-BharathKumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharath.adinarayan@smail.inf.h-brs.de)
 
 <!-- TODO: Add last video link -->
 
