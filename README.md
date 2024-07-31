@@ -9,8 +9,7 @@ I'm Bharath Kumar a master's student in Autonomous systems at Hochschule Bonn-Rh
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently studying Autonomous systems at Hochschule Bonn-Rhein-Sieg
-- 📫 How to reach me: bharath.adinarayan@smail.inf.h-brs.de
--                     bharath.adinarayan@smail.inf.h-brs.de
+- 📫 How to reach me: bharath.adinarayan@smail.inf.h-brs.de, bharathkumaradinarayan@gmail.com
 - 😄 Pronouns: BK, Bharath.
 - ⚡ Fun fact: I love creating 3D art.
 
@@ -29,6 +28,7 @@ I'm Bharath Kumar a master's student in Autonomous systems at Hochschule Bonn-Rh
 
 #### Contact
 - bharath.adinarayan@smail.inf.h-brs.de
+- bharathkumaradinarayan@gmail.com
 
 #### Github Stats
 
