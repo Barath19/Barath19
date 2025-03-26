@@ -25,6 +25,11 @@ Currently, ML@autarc💜. I have a master's in Autonomous systems. Formerly Comp
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 
+Favorite LLM
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
+
 
 #### Contact
 - bharath.adinarayan@smail.inf.h-brs.de
