@@ -8,16 +8,16 @@ Currently, ML@autarc💜. I have a master's in Autonomous systems. Formerly Comp
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently studying Autonomous systems at Hochschule Bonn-Rhein-Sieg
-- 📫 How to reach me: bharath.adinarayan@smail.inf.h-brs.de, bharathkumaradinarayan@gmail.com
-- 😄 Pronouns: BK, Bharath.
-- ⚡ Fun fact: I love creating 3D art.
+- 🔭 ML@autarc
+- 📫 How to reach me: bharathkumaradinarayan@gmail.com
+- ⚡ Fun fact: I love creating art 🎥.
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
 ![Julia](https://img.shields.io/badge/-Julia-black?style=flat-square&logo=Julia)
 ![ROS2](https://img.shields.io/badge/-ROS2-black?style=flat-square&logo=ROS)
 ![Opencv](https://img.shields.io/badge/-Opencv-black?style=flat-square&logo=Opencv)
