@@ -49,5 +49,5 @@ Favorite LLM
 
 <br >
 
-I love working on robotics projects mainly working on reinforcement learning and imitation learning and I am also interested in learning reward functions from policy🙃 !
+I love working on vision models and smal language models!
 
