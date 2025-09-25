@@ -49,5 +49,5 @@ Favorite LLM
 
 <br >
 
-I love working on vision models and smal language models!
+I love working on vision models and small language models!
 
