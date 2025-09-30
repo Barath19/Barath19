@@ -32,7 +32,6 @@ Favorite LLM
 
 
 #### Contact
-- bharath.adinarayan@smail.inf.h-brs.de
 - bharathkumaradinarayan@gmail.com
 
 #### Github Stats
